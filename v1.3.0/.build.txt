@@ -1,0 +1,3 @@
+[repoFolder:AgoraRTCEngine, branch:release/1.13.0, commit:88c16609c1f39a5bec3446584453057e22805c63]
+[repoFolder:media_sdk2, branch:release/1.13.0, commit:2fcd9626384e2a7acb952b85ca2413bbb731ebd4]
+[repoFolder:ServerSDK-Video, branch:release/1.13.0, commit:033e66e18aff3444e0012402cfe9992436d55aad]
